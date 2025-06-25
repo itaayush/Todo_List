@@ -9,7 +9,6 @@ A clean and modern Todo List application built with React and Vite. Features tas
 - ✅ Delete tasks
 - ✅ Clean, responsive interface
 - ✅ Modern React 19 with hooks
-- ✅ Styled with Tailwind CSS
 
 ## 🚀 Getting Started
 
@@ -22,8 +21,8 @@ A clean and modern Todo List application built with React and Vite. Features tas
 
 1. Clone the repository
 ```bash
-git clone https://github.com/itaayush/Todo_List.git
-cd Todo-List
+git clone https://github.com/yourusername/todo-list.git
+cd todo-list
 ```
 
 2. Install dependencies
@@ -55,7 +54,6 @@ npm run dev
 
 - [React](https://reactjs.org/) - Frontend framework
 - [Vite](https://vitejs.dev/) - Build tool and dev server
-- [Tailwind CSS](https://tailwindcss.com/) - CSS framework
 - [ESLint](https://eslint.org/) - Code linting
 
 ## 📝 License
